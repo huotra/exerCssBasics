@@ -40,7 +40,7 @@ body{
 }
 
 #showcase{
-    background-image: url('../images/showcase.jpg');
+    background-image: url('../mywebsite/images/showcase.jpg');
     background-position: center right;
     min-height: 300px;
     margin-bottom: 30px;
@@ -83,6 +83,7 @@ body{
         width: 100%;
         float: none;
     }
+    
     #sidebar{
         width: 100%;
         float: none;
