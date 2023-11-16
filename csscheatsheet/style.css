@@ -129,7 +129,7 @@ a:active{
     width: 100%;
 }
 
-block{
+.block{
     float: left;
     width: 33.3%;
     border: 1px solid #ccc;
@@ -159,7 +159,7 @@ block{
     border: 1px solid #000;
     margin-top: 30px;
     position: relative;
-    background-image: url('/images/bgimage.jpg');
+    background-image: url('../images/bgimage.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 100px 200px;
