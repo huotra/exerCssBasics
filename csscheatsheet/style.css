@@ -109,7 +109,7 @@ a:active{
 .categories li{
     padding-bottom: 6px;
     border-bottom: dotted 1px #333;
-    list-style-image: url('../images/check.png');
+    list-style-image: url('/images/check.png');
 }
 
 .my-form{
@@ -159,7 +159,7 @@ block{
     border: 1px solid #000;
     margin-top: 30px;
     position: relative;
-    background-image: url('../images/bgimage.jpg');
+    background-image: url('/images/bgimage.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 100px 200px;
