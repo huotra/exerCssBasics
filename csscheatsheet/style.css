@@ -25,9 +25,6 @@ a:active{
     color:green;
 }
 
-a: visited{
-}
-
 .container{
     width:80%;
     margin: auto;
@@ -128,7 +125,7 @@ margin: 20px 0;
     width: 100%;
 }
 
-.block{
+block{
     float: left;
     width: 33.3%;
     border: 1px solid #ccc;
